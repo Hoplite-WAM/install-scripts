@@ -8,4 +8,3 @@ sudo apt update
 git clone https://github.com/Hoplite-WAM/emacs-config
 rmdir .emacs.d
 mv emacs-config .emacs.d
-# comment
